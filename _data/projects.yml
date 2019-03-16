@@ -27,7 +27,7 @@
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    Published MQTT message Control using user-defined rule <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
+    MQTT message routing using user-defined rules <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
     [mqtt-rule-engine](https://github.com/phyunsj/mqtt-rule-engine)
 
     3rd IoT simulator example with IFTTT platform  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
