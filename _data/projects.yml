@@ -30,13 +30,13 @@
     MQTT message routing using user-defined rules <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
     [mqtt-rule-engine](https://github.com/phyunsj/mqtt-rule-engine)
 
-    3rd IoT simulator example with IFTTT platform  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
+    Collect Sequence of Events(SOE) and store in Google Sheets for later use  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
     [ifttt-soe-logger](https://github.com/phyunsj/ifttt-soe-logger)
 
-    2nd IoT simulator example testing with stringify-developer-template <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
+    Create your custom thing in flows and send events <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
     [iot-device-simulator-2-stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
 
-    A custom node to simulate user-defined IoT data. 1st IoT simulator example with MQTT broker <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark>
+    A custom node to simulate user-defined IoT data. Tested with cloud MQTT broker <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>MQTT over websocket</mark>
     [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
 
     Thermostat Control over IM <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
