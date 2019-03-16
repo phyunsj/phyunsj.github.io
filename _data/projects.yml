@@ -58,38 +58,33 @@
 
     **Experimenting with Cloud IoT Platforms**
 
-    ThingWrox [node-red-to-access-thingwrox](https://github.com/phyunsj/node-red-to-access-thingwrox)
+    [ThingWrox](https://github.com/phyunsj/node-red-to-access-thingwrox)
 
-    flespi MQTT Broker [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
+    [flespi MQTT Broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
 
-    Blynk + cloudBit [blynk-cloudbit](https://github.com/phyunsj/blynk-cloudbit)
+    [Blynk + cloudBit](https://github.com/phyunsj/blynk-cloudbit)
 
-    Blynk [blynk-node-red](https://github.com/phyunsj/blynk-node-red)
+    [Blynk](https://github.com/phyunsj/blynk-node-red)
 
-    dweet.io [dweet.io-node-red](https://github.com/phyunsj/dweet.io-node-red)
+    [dweet.io](https://github.com/phyunsj/dweet.io-node-red)
 
-    Datadog [datadog-node-red](https://github.com/phyunsj/datadog-node-red)
+    [Datadog](https://github.com/phyunsj/datadog-node-red)
 
-    IFTTT [ifttt-soe-logger](https://github.com/phyunsj/ifttt-soe-logger)
+    [IFTTT](https://github.com/phyunsj/ifttt-soe-logger)
 
-    Stringify [iot-device-simulator-2-stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
+    [Stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
 
     **Custom Nodes**
 
-    WebAssembly Native Node <mark>webassembly</mark> 
-    [node-red-native-addon](https://github.com/phyunsj/node-red-native-addon)
+    [WebAssembly Native Node](https://github.com/phyunsj/node-red-native-addon) <mark>webassembly</mark> 
 
-    Blocking Queue Node 
-    [node-red-simple-blocking-queue](https://github.com/phyunsj/node-red-simple-blocking-queue)
+    [Blocking Queue Node](https://github.com/phyunsj/node-red-simple-blocking-queue) 
 
-    D3 Line Chart Node <mark>D3</mark> 
-    [node-red-dashboard-custom-widget](https://github.com/phyunsj/node-red-dashboard-custom-widget)
+    [D3 Line Chart Custome Widget Node](https://github.com/phyunsj/node-red-dashboard-custom-widget) <mark>D3</mark> 
+    
+    [ZeroMQ Node](https://github.com/phyunsj/node-red-contrib-zeromq-node) <mark>ØMQ</mark>
 
-    ZeroMQ Node <mark>ØMQ</mark>
-    [node-red-contrib-zeromq-node](https://github.com/phyunsj/node-red-contrib-zeromq-node)
-
-    IoT Device Simulator 
-    [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
+    [IoT Device Simulator](https://github.com/phyunsj/iot-device-simulator-1-mqtt) 
 
 - name: Automation
   github: phyunsj
