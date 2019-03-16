@@ -1,6 +1,6 @@
-## [phyunsj.github.io](https://phyunsj.github.io/) GitHub page
+## [Personal GitHub page]((https://phyunsj.github.io/)
 
-A list of personal github projects and short descriptions.
+A list of github projects and short descriptions.
 
 ## [A modern static resume template and theme](https://github.com/sproogen/modern-resume-theme)
 
