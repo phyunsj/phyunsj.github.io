@@ -3,75 +3,55 @@
 - name: Dashboard
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    Design Dashboard with 2D game framework  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>Pi 3B</mark>
-    [iot-dashboard-design-with-love2d](https://github.com/phyunsj/iot-dashboard-design-with-love2d)
+    [Design Dashboard with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>Pi 3B</mark>
 
-    Dash python framework to design IoT Dashboard  <mark>Dash</mark> <mark>Node-RED</mark> 
-    [iot-dashboard-design-with-dash](https://github.com/phyunsj/iot-dashboard-design-with-dash)
+    [Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>Dash</mark> <mark>Node-RED</mark> 
 
-    Login, Session Management <mark>Node-RED</mark> <mark>ui-control</mark> <mark>node-red-dashboard</mark>
-    [node-red-dashboard-login](https://github.com/phyunsj/node-red-dashboard-login)
+    [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>Node-RED</mark> <mark>ui-control</mark> <mark>node-red-dashboard</mark>
 
-    Dashboard design for the embedded system <mark>Node-RED</mark> <mark>freeboard.io</mark> <mark>Crow webserver</mark>
-    [embedded-freeboard-dashboard](https://github.com/phyunsj/embedded-freeboard-dashboard)
+    [Dashboard design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard.io</mark> <mark>Crow webserver</mark>
 
-    Porting Metricio Design <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
-    [react-native-metricio](https://github.com/phyunsj/react-native-metricio)
+    [Porting Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
 
-    Alert Dashboard <mark>Node-RED</mark> <mark>google maps</mark>  <mark>ui-template</mark>
-    [node-red-custom-dashboard-map-page](https://github.com/phyunsj/node-red-custom-dashboard-map-page)
+    [Alert Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-map-page) <mark>Node-RED</mark> <mark>google maps</mark>  <mark>ui-template</mark>
 
-    System Monitoring Dashboard <mark>Node-RED</mark> <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
-    [node-red-custom-dashboard-system-page](https://github.com/phyunsj/node-red-custom-dashboard-system-page)
+    [System Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-system-page) <mark>Node-RED</mark> <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
 
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    MQTT message routing using user-defined rules <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
-    [mqtt-rule-engine](https://github.com/phyunsj/mqtt-rule-engine)
+    [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine)
+ <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
+  
+    [Collect Sequence of Events(SOE) and store in Google Sheets for later use](https://github.com/phyunsj/ifttt-soe-logger)  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
 
-    Collect Sequence of Events(SOE) and store in Google Sheets for later use  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
-    [ifttt-soe-logger](https://github.com/phyunsj/ifttt-soe-logger)
+    [Create your custom thing in flows and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
 
-    Create your custom thing in flows and send events <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
-    [iot-device-simulator-2-stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
+    [A custom node to simulate user-defined IoT data. Tested with cloud MQTT broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt) <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>MQTT over websocket</mark>
 
-    A custom node to simulate user-defined IoT data. Tested with cloud MQTT broker <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>MQTT over websocket</mark>
-    [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
-
-    Thermostat Control over IM <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
-    [node-red-contrib-ecolect-example](https://github.com/phyunsj/node-red-contrib-ecolect-example)
+    [Thermostat Control over IM](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
 
 - name: API Design + Code Generator
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
 
-    XDR as an API Contract  <mark>XDR</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
-    [api-contract](https://github.com/phyunsj/api-contract)
+    [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>XDR</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
 
-    XDR over ØMQ  <mark>XDR</mark>  <mark>rpcgen</mark> <mark>IDL</mark>  <mark>xdrmem</mark>  <mark>ØMQ</mark> <mark>ZeroMQ</mark> 
-    [xdr-data-serialization](https://github.com/phyunsj/xdr-data-serialization)
+    [XDR over ØMQ](https://github.com/phyunsj/xdr-data-serialization)  <mark>XDR</mark>  <mark>rpcgen</mark> <mark>IDL</mark>  <mark>xdrmem</mark>  <mark>ØMQ</mark> <mark>ZeroMQ</mark> 
 
-    (1) Simple Text Scanner with SLRE (2) C++ class representing Hadoop Configuration Parameters  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
-    [simple-configuration-setter-getter-SLRE-sqlite](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite)
+    (1) [Simple Text Scanner with SLRE](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite) (2) [C++ class representing Hadoop Configuration Parameters](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite/tree/master/example)  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
 
-    Angular Custom Validator Generation with Template-Driven Form  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
-    [angular-custom-validator-generation](https://github.com/phyunsj/angular-custom-validator-generation)
+    [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
 
-    Angular 5 http Service Component Generation with the table <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
-    [angular-http-sql-service-component-generation](https://github.com/phyunsj/angular-http-sql-service-component-generation)
+    [Angular 5 http Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation) <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
 
-    Lua-to-C wrapper generation based on .h <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
-    [lua-to-c](https://github.com/phyunsj/lua-to-c)
+    [Lua-to-C wrapper generation based on .h](https://github.com/phyunsj/lua-to-c) <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
 
-    RPC Code Generation <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
-    [oncrpc-api-design](https://github.com/phyunsj/oncrpc-api-design)
+    [RPC Code Generation](https://github.com/phyunsj/oncrpc-api-design) <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
 
-    JSON-RPC EGI handler to process RPC POST Data, Excel as API specification <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON-RPC</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
-    [jsonrpc-embedded-cgi-handler](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler)
+    [JSON-RPC EGI handler to process RPC POST Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON-RPC</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
 
-    embedded gateway interface (EGI) handler to process JSON POST Data <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
-    [embedded-webapp-jsonparser](https://github.com/phyunsj/embedded-webapp-jsonparser)
+    [embedded gateway interface (EGI) handler to process JSON POST Data](https://github.com/phyunsj/embedded-webapp-jsonparser) <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
 
 - name: Node-RED 
   github: phyunsj
@@ -115,17 +95,13 @@
 - name: Automation
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    Node-RED flow deployment : Control the machines and pushes tasks via SSH  <mark>ansible</mark> <mark>ssh</mark> <mark>Pi 3B</mark>
-    [automate-it](https://github.com/phyunsj/automate-it)
+    [Node-RED flow deployment : Control the machines and pushes tasks via SSH](https://github.com/phyunsj/automate-it)  <mark>ansible</mark> <mark>ssh</mark> <mark>Pi 3B</mark>
 
-    pexpect to control interactive applications such as SSH, SCP  <mark>pexpect</mark> <mark>ssh</mark> <mark>scp</mark> <mark>Pi 3B</mark>
-    [2-flow-deploy-py](https://github.com/phyunsj/automate-it/tree/master/2-flow-deploy-py)
+    [pexpect to control interactive applications such as SSH, SCP](https://github.com/phyunsj/automate-it/tree/master/2-flow-deploy-py)  <mark>pexpect</mark> <mark>ssh</mark> <mark>scp</mark> <mark>Pi 3B</mark>
 
 - name: Documentation
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    Gravizo Graph, Diagram Example  <mark>gravizo</mark>
-    [embedding-gravizo-graph](https://github.com/phyunsj/embedding-gravizo-graph)
+    [Gravizo Graph, Diagram Example](https://github.com/phyunsj/embedding-gravizo-graph)  <mark>gravizo</mark>
 
-    Quick Start Guide to Build Desktop Application with Electron + Angular  <mark>electron</mark> <mark>electron-packager</mark> <mark>angular</mark> 
-    [electron-angular-quick-start-guide](https://github.com/phyunsj/electron-angular-quick-start-guide)
+    [Quick Start Guide to Build Desktop Application with Electron + Angular](https://github.com/phyunsj/electron-angular-quick-start-guide)  <mark>electron</mark> <mark>electron-packager</mark> <mark>angular</mark> 
