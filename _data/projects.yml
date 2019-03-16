@@ -20,9 +20,8 @@
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine)
- <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
-  
+    [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine) <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
+    
     [Collect Sequence of Events(SOE) and store in Google Sheets for later use](https://github.com/phyunsj/ifttt-soe-logger)  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
 
     [Create your custom thing in flows and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
