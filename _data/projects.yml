@@ -39,7 +39,7 @@
     A custom node to simulate user-defined IoT data. 1st IoT simulator example with MQTT broker <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark>
     [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
 
-    Thermostat Control over Chat <mark>react-native</mark> <mark>ecolet</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
+    Thermostat Control over IM <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
     [node-red-contrib-ecolect-example](https://github.com/phyunsj/node-red-contrib-ecolect-example)
 
 - name: API Design + Code Generator
