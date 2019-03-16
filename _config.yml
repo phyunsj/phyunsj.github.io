@@ -1,0 +1,38 @@
+# Site
+repository: phyunsj/phyunsj.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: SJ
+title: Software Engineer
+email: phyunsj@yahoo.com
+website: phyunsj.github.io
+
+# Social links
+github_username:  phyunsj
+linkedin_username: phyunsj
+#youtube_username: jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/sj_profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  
+  **Interest Areas** : IoT/IIoT, Distributed Systems, Dashboard (Particularly on Control Systems), Embedded Systems
+
+# Projects Section
+# projects_title: Projects
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

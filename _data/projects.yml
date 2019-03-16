@@ -1,0 +1,131 @@
+# Project template
+
+- name: Dashboard
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    Design Dashboard with 2D game framework  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>Pi 3B</mark>
+    [iot-dashboard-design-with-love2d](https://github.com/phyunsj/iot-dashboard-design-with-love2d)
+
+    Dash python framework to design IoT Dashboard  <mark>Dash</mark> <mark>Node-RED</mark> 
+    [iot-dashboard-design-with-dash](https://github.com/phyunsj/iot-dashboard-design-with-dash)
+
+    Login, Session Management <mark>Node-RED</mark> <mark>ui-control</mark> <mark>node-red-dashboard</mark>
+    [node-red-dashboard-login](https://github.com/phyunsj/node-red-dashboard-login)
+
+    Dashboard design for the embedded system <mark>Node-RED</mark> <mark>freeboard.io</mark> <mark>Crow webserver</mark>
+    [embedded-freeboard-dashboard](https://github.com/phyunsj/embedded-freeboard-dashboard)
+
+    Porting Metricio Design <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
+    [react-native-metricio](https://github.com/phyunsj/react-native-metricio)
+
+    Alert Dashboard <mark>Node-RED</mark> <mark>google maps</mark>  <mark>ui-template</mark>
+    [node-red-custom-dashboard-map-page](https://github.com/phyunsj/node-red-custom-dashboard-map-page)
+
+    System Monitoring Dashboard <mark>Node-RED</mark> <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
+    [node-red-custom-dashboard-system-page](https://github.com/phyunsj/node-red-custom-dashboard-system-page)
+
+- name: Internet of Things
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    Published MQTT message Control using user-defined rule <mark>MQTT</mark> <mark>eclipse mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
+    [mqtt-rule-engine](https://github.com/phyunsj/mqtt-rule-engine)
+
+    3rd IoT simulator example with IFTTT platform  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot simulator</mark> <mark>webhooks</mark>
+    [ifttt-soe-logger](https://github.com/phyunsj/ifttt-soe-logger)
+
+    2nd IoT simulator example testing with stringify-developer-template <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot simulator</mark> <mark>MQTT</mark> <mark>Zeroconf protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
+    [iot-device-simulator-2-stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
+
+    A custom node to simulate user-defined IoT data. 1st IoT simulator example with MQTT broker <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot simulator</mark> <mark>MQTT</mark>
+    [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
+
+    Thermostat Control over Chat <mark>react-native</mark> <mark>ecolet</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
+    [node-red-contrib-ecolect-example](https://github.com/phyunsj/node-red-contrib-ecolect-example)
+
+- name: API Design + Code Generator
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+
+    XDR as an API Contract  <mark>XDR</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
+    [api-contract](https://github.com/phyunsj/api-contract)
+
+    XDR over ØMQ  <mark>XDR</mark>  <mark>rpcgen</mark> <mark>IDL</mark>  <mark>xdrmem</mark>  <mark>ØMQ</mark> <mark>ZeroMQ</mark> 
+    [xdr-data-serialization](https://github.com/phyunsj/xdr-data-serialization)
+
+    (1) Simple Text Scanner with SLRE (2) C++ class representing Hadoop Configuration Parameters  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
+    [simple-configuration-setter-getter-SLRE-sqlite](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite)
+
+    Angular Custom Validator Generation with Template-Driven Form  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
+    [angular-custom-validator-generation](https://github.com/phyunsj/angular-custom-validator-generation)
+
+    Angular 5 http Service Component Generation with the table <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
+    [angular-http-sql-service-component-generation](https://github.com/phyunsj/angular-http-sql-service-component-generation)
+
+    Lua-to-C wrapper generation based on .h <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
+    [lua-to-c](https://github.com/phyunsj/lua-to-c)
+
+    RPC Code Generation <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
+    [oncrpc-api-design](https://github.com/phyunsj/oncrpc-api-design)
+
+    JSON-RPC EGI handler to process RPC POST Data, Excel as API specification <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON-RPC</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
+    [jsonrpc-embedded-cgi-handler](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler)
+
+    embedded gateway interface (EGI) handler to process JSON POST Data <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
+    [embedded-webapp-jsonparser](https://github.com/phyunsj/embedded-webapp-jsonparser)
+
+- name: Node-RED 
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+
+    **Experimenting with Cloud IoT Platforms**
+
+    ThingWrox [node-red-to-access-thingwrox](https://github.com/phyunsj/node-red-to-access-thingwrox)
+
+    flespi MQTT Broker [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
+
+    Blynk + cloudBit [blynk-cloudbit](https://github.com/phyunsj/blynk-cloudbit)
+
+    Blynk [blynk-node-red](https://github.com/phyunsj/blynk-node-red)
+
+    dweet.io [dweet.io-node-red](https://github.com/phyunsj/dweet.io-node-red)
+
+    Datadog [datadog-node-red](https://github.com/phyunsj/datadog-node-red)
+
+    IFTTT [ifttt-soe-logger](https://github.com/phyunsj/ifttt-soe-logger)
+
+    Stringify [iot-device-simulator-2-stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
+
+    **Custom Nodes**
+
+    WebAssembly Native Node <mark>webassembly</mark> 
+    [node-red-native-addon](https://github.com/phyunsj/node-red-native-addon)
+
+    Blocking Queue Node 
+    [node-red-simple-blocking-queue](https://github.com/phyunsj/node-red-simple-blocking-queue)
+
+    D3 Line Chart Node <mark>D3</mark> 
+    [node-red-dashboard-custom-widget](https://github.com/phyunsj/node-red-dashboard-custom-widget)
+
+    ZeroMQ Node <mark>ØMQ</mark>
+    [node-red-contrib-zeromq-node](https://github.com/phyunsj/node-red-contrib-zeromq-node)
+
+    IoT Device Simulator 
+    [iot-device-simulator-1-mqtt](https://github.com/phyunsj/iot-device-simulator-1-mqtt)
+
+- name: Automation
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    Node-RED flow deployment : Control the machines and pushes tasks via SSH  <mark>ansible</mark> <mark>ssh</mark> <mark>Pi 3B</mark>
+    [automate-it](https://github.com/phyunsj/automate-it)
+
+    pexpect to control interactive applications such as SSH, SCP  <mark>pexpect</mark> <mark>ssh</mark> <mark>scp</mark> <mark>Pi 3B</mark>
+    [2-flow-deploy-py](https://github.com/phyunsj/automate-it/tree/master/2-flow-deploy-py)
+
+- name: Documentation
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    Gravizo Graph, Diagram Example  <mark>gravizo</mark>
+    [embedding-gravizo-graph](https://github.com/phyunsj/embedding-gravizo-graph)
+
+    Quick Start Guide to Build Desktop Application with Electron + Angular  <mark>electron</mark> <mark>electron-packager</mark> <mark>angular</mark> 
+    [electron-angular-quick-start-guide](https://github.com/phyunsj/electron-angular-quick-start-guide)
