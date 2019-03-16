@@ -1,4 +1,4 @@
-## [Personal GitHub page]((https://phyunsj.github.io/)
+## [Personal GitHub page](https://phyunsj.github.io/)
 
 A list of github projects and short descriptions.
 
