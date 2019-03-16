@@ -21,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
   **Interest Areas** : IoT/IIoT, Distributed Systems, Dashboard (Particularly on Control Systems), Embedded Systems
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects/Prototypes
 
 # Footer
 footer_show_references: false
