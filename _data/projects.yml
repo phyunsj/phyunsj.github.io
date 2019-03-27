@@ -7,15 +7,15 @@
 
     [Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>Dash</mark> <mark>Node-RED</mark> 
 
-    [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>Node-RED</mark> <mark>ui-control</mark> <mark>node-red-dashboard</mark>
+    [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>node-red-dashboard</mark> <mark>ui-control</mark> 
 
     [Dashboard design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard.io</mark> <mark>Crow webserver</mark>
 
     [Porting Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
 
-    [Alert Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-map-page) <mark>Node-RED</mark> <mark>google maps</mark>  <mark>ui-template</mark>
+    [Alert Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-map-page) <mark>node-red:ui-template</mark> <mark>google maps</mark>  
 
-    [System Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-system-page) <mark>Node-RED</mark> <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
+    [System Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-system-page) <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
 
 - name: Internet of Things
   github: phyunsj
@@ -24,9 +24,9 @@
     
     [Collect Sequence of Events(SOE) and store in Google Sheets for later use](https://github.com/phyunsj/ifttt-soe-logger)  <mark>IFTTT</mark> <mark>Node-RED</mark> <mark>iot-simulator</mark> <mark>webhooks</mark>
 
-    [Create your custom thing in flows and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot-simulator</mark> <mark>MQTT</mark> <mark>Zeroconf-protocol</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
+    [Create your custom thing in flows and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>Node-RED</mark> <mark>stringify-developer-template</mark> <mark>iot-simulator</mark> <mark>MQTT</mark> <mark>Zeroconf</mark> <mark>bonjour</mark>  <mark>websocket</mark> 
 
-    [A custom node to simulate user-defined IoT data. Tested with cloud MQTT broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt) <mark>Node-RED</mark> <mark>node-red-dshboard</mark> <mark>iot-simulator</mark> <mark>MQTT</mark> <mark>MQTT over websocket</mark>
+    [A custom node to simulate user-defined IoT data. Tested with cloud MQTT broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt) <mark>node-red-dshboard</mark> <mark>iot-simulator</mark> <mark>MQTT</mark> <mark>websocket</mark>
 
     [Thermostat Control over IM](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
 
@@ -36,7 +36,7 @@
 
     [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>XDR</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
 
-    [XDR over ØMQ](https://github.com/phyunsj/xdr-data-serialization)  <mark>XDR</mark>  <mark>rpcgen</mark> <mark>IDL</mark>  <mark>xdrmem</mark>  <mark>ØMQ</mark> <mark>ZeroMQ</mark> 
+    [XDR over ØMQ](https://github.com/phyunsj/xdr-data-serialization)  <mark>XDR</mark>  <mark>rpcgen</mark> <mark>IDL</mark>  <mark>xdrmem</mark> <mark>ZeroMQ</mark> 
 
     (1) [Simple Text Scanner with SLRE](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite) (2) [C++ class representing Hadoop Configuration Parameters](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite/tree/master/example)  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
 
@@ -48,9 +48,9 @@
 
     [RPC Code Generation](https://github.com/phyunsj/oncrpc-api-design) <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
 
-    [JSON-RPC EGI handler to process RPC POST Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON-RPC</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
+    [JSON-RPC EGI handler to process RPC POST Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb 2.x webserver</mark> <mark>JSON-RPC</mark> <mark>jsoncpp</mark> <mark>Excel</mark> 
 
-    [embedded gateway interface (EGI) handler to process JSON POST Data](https://github.com/phyunsj/embedded-webapp-jsonparser) <mark>appWeb 2.x</mark> <mark>webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
+    [embedded gateway interface (EGI) handler to process JSON POST Data](https://github.com/phyunsj/embedded-webapp-jsonparser) <mark>appWeb 2.x webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
 
 - name: Node-RED 
   github: phyunsj
