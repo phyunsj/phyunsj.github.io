@@ -34,7 +34,7 @@
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
 
-    [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>IDL</mark>  <mark>rpcgen</mark> <mark>IDL</mark> 
+    [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>IDL</mark>  <mark>rpcgen</mark> 
 
     [XDR over ØMQ](https://github.com/phyunsj/xdr-data-serialization)  <mark>IDL</mark>  <mark>rpcgen</mark> <mark>xdrmem</mark> <mark>ZeroMQ</mark> 
 
@@ -46,7 +46,7 @@
 
     [Lua-to-C wrapper generation based on .h](https://github.com/phyunsj/lua-to-c) <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
 
-    [RPC Code Generation](https://github.com/phyunsj/oncrpc-api-design) <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>rpcgen</mark> <mark>IDL</mark> 
+    [RPC Code Generation](https://github.com/phyunsj/oncrpc-api-design) <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>IDL</mark>  <mark>rpcgen</mark> 
 
     [JSON-RPC EGI handler to process RPC POST Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb 2.x webserver</mark> <mark>JSON-RPC</mark> <mark>Excel</mark> 
 
