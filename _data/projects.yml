@@ -38,7 +38,7 @@
 
     [XDR over ØMQ](https://github.com/phyunsj/xdr-data-serialization)  <mark>IDL</mark>  <mark>rpcgen</mark> <mark>xdrmem</mark> <mark>ZeroMQ</mark> 
 
-    (1) [Simple Text Scanner with SLRE](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite) (2) [C++ class representing Hadoop Configuration Parameters](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite/tree/master/example)  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
+    [1. Simple Text Scanner with SLRE](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite) [2. C++ class representing Hadoop Configuration Parameters](https://github.com/phyunsj/simple-configuration-setter-getter-SLRE-sqlite/tree/master/example)  <mark>SLRE</mark> <mark>sqlite</mark> <mark>Excel</mark> 
 
     [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
 
