@@ -34,7 +34,7 @@
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     
-    [OpenAPI using swagger editor](https://github.com/phyunsj/web-thing-swagger-page)  <mark>REST</mark>  <mark>OpenAPI</mark>  <mark>swagger</mark> 
+    [OpenAPI example using swagger editor](https://github.com/phyunsj/web-thing-swagger-page)  <mark>REST</mark>  <mark>OpenAPI</mark>  <mark>swagger</mark> 
     
     [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>IDL</mark>  <mark>rpcgen</mark> 
 
