@@ -9,7 +9,7 @@
 
     [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>node-red-dashboard</mark> <mark>ui-control</mark> 
 
-    [Dashboard design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard.io</mark> <mark>Crow webserver</mark>
+    [Dashboard design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard</mark> <mark>Crow webserver</mark>
 
     [Porting Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
 
@@ -34,7 +34,7 @@
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     
-    [OpenAPI example using swagger editor](https://github.com/phyunsj/web-thing-swagger-page)  <mark>REST</mark>  <mark>OpenAPI</mark>  <mark>swagger</mark> 
+    [OpenAPI example using swagger editor](https://github.com/phyunsj/web-thing-swagger-page)  <mark>REST</mark>  <mark>OpenAPI</mark>  <mark>swagger</mark> <mark>Mozilla WebThings</mark>
     
     [XDR as an API Contract](https://github.com/phyunsj/api-contract)  <mark>IDL</mark>  <mark>rpcgen</mark> 
 
