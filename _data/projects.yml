@@ -20,7 +20,7 @@
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    [MQTT endpoint + MQTT Query](https://github.com/phyunsj/mqtt-endpoint-graphql) <mark>MQTT</mark> <mark>GraphQL</mark>
+    [MQTT endpoint + MQTT query](https://github.com/phyunsj/mqtt-endpoint-graphql) <mark>MQTT</mark> <mark>GraphQL</mark>
   
     [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine) <mark>MQTT</mark> <mark>mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
     
