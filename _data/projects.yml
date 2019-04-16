@@ -17,6 +17,14 @@
 
     [System Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-system-page) <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
 
+- name: Angular
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    
+    [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)   <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
+    
+    [Angular HTTP Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation)  <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
+    
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
@@ -46,7 +54,7 @@
 
     [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
 
-    [Angular 5 http Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation) <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
+    [Angular HTTP Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation) <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
 
     [Lua-to-C wrapper generation based on .h](https://github.com/phyunsj/lua-to-c) <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
 
