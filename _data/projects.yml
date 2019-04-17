@@ -87,9 +87,9 @@
 - name: Automation
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    [Node-RED flow deployment : pushes tasks via SSH](https://github.com/phyunsj/automate-it)  <mark>ansible</mark> <mark>ssh</mark> <mark>Pi 3B</mark>
+    [Node-RED flow deployment : push tasks via SSH](https://github.com/phyunsj/automate-it)  <mark>ansible</mark> <mark>ssh</mark> <mark>RasPi</mark>
 
-    [control interactive applications such as SSH, SCP or SFTP - python](https://github.com/phyunsj/automate-it/tree/master/2-flow-deploy-py)  <mark>pexpect</mark> <mark>paramiko</mark> <mark>Pi 3B</mark>
+    [control interactive applications such as SSH, SCP or SFTP - python](https://github.com/phyunsj/automate-it/tree/master/2-flow-deploy-py)  <mark>pexpect</mark> <mark>paramiko</mark> <mark>RasPi</mark>
 
 - name: Documentation
   github: phyunsj
