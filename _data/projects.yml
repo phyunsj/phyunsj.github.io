@@ -24,7 +24,9 @@
     [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)   <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
     
     [Angular HTTP Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation)  <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
-    
+ 
+    [Quick Start Guide to Build Desktop Application with Electron](https://github.com/phyunsj/electron-angular-quick-start-guide)  <mark>electron</mark> <mark>electron-packager</mark>      
+
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
