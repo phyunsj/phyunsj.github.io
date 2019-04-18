@@ -3,9 +3,9 @@
 - name: Dashboard
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    [Design Dashboard with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>Pi 3B</mark>
+    [Design Dashboard with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
 
-    [Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>Dash</mark> <mark>Node-RED</mark> 
+    [plotly\|Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>plotly\|Dash</mark> <mark>Node-RED</mark> 
 
     [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>node-red-dashboard</mark> <mark>ui-control</mark> 
 
@@ -21,11 +21,20 @@
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     
-    [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)   <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
+    [Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)   <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
     
-    [Angular HTTP Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation)  <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
+    [HTTP Service Component Generation](https://github.com/phyunsj/angular-http-sql-service-component-generation)  <mark>angular service</mark>  <mark>sqlite</mark> <mark>Excel</mark> 
  
     [Quick Start Guide to Build Desktop Application with Electron](https://github.com/phyunsj/electron-angular-quick-start-guide)  <mark>electron</mark> <mark>electron-packager</mark>      
+
+- name: React (Native)?
+  github: phyunsj
+  description: | # this will include new lines to allow paragraphs
+    
+    [Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>Dashing</mark> <mark>Metricio</mark>
+
+    [Thermostat Control over IM](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
+
 
 - name: Internet of Things
   github: phyunsj
@@ -56,7 +65,7 @@
 
     [Angular Custom Validator Generation with Template-Driven Form](https://github.com/phyunsj/angular-custom-validator-generation)  <mark>angular</mark> <mark>template-form</mark> <mark>validator directive</mark> <mark>Excel</mark> 
 
-    [Angular HTTP Service Component Generation with the table](https://github.com/phyunsj/angular-http-sql-service-component-generation) <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
+    [Angular HTTP Service Component Generation](https://github.com/phyunsj/angular-http-sql-service-component-generation) <mark>angular</mark> <mark>angular service</mark>  <mark>sqlite</mark> <mark>JSON</mark> <mark>Excel</mark> 
 
     [Lua-to-C wrapper generation based on .h](https://github.com/phyunsj/lua-to-c) <mark>pycparser</mark> <mark>AST</mark>  <mark>lua</mark>
 
