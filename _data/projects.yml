@@ -1,6 +1,6 @@
 # Project template
 
-- name: Dashboard
+- name: UI
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
@@ -86,7 +86,7 @@
 
     **Experimenting with Cloud IoT Platforms**
 
-    [ThingWrox](https://github.com/phyunsj/node-red-to-access-thingwrox) \| [flespi MQTT Broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt) \| [Blynk](https://github.com/phyunsj/blynk-node-red) \| [Blynk + cloudBit](https://github.com/phyunsj/blynk-cloudbit) \| [dweet.io](https://github.com/phyunsj/dweet.io-node-red) \| [Datadog](https://github.com/phyunsj/datadog-node-red) \| [IFTTT](https://github.com/phyunsj/ifttt-soe-logger) \| [Stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify)
+    [ThingWrox](https://github.com/phyunsj/node-red-to-access-thingwrox) \| [flespi MQTT Broker](https://github.com/phyunsj/iot-device-simulator-1-mqtt) \| [Blynk](https://github.com/phyunsj/blynk-node-red) \| [Blynk + cloudBit](https://github.com/phyunsj/blynk-cloudbit) \| [dweet.io](https://github.com/phyunsj/dweet.io-node-red) \| [Datadog](https://github.com/phyunsj/datadog-node-red) \| [IFTTT](https://github.com/phyunsj/ifttt-soe-logger) \| [Stringify](https://github.com/phyunsj/iot-device-simulator-2-stringify) \| [Zapier](https://github.com/phyunsj/simple-way-to-build-iot-monitor)
 
     **Custom Nodes**
 
