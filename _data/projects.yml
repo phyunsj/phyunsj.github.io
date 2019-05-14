@@ -1,6 +1,6 @@
 # Project template
 
-- name: UI
+- name: GUI
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
