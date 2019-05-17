@@ -3,8 +3,7 @@
 - name: GUI
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
-    [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
-
+   
     [Dashboard Design with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
 
     [plotly\|Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>plotly|Dash</mark> <mark>Node-RED</mark> 
@@ -44,6 +43,8 @@
 - name: Internet of Things
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
+    [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
+
     [MQTT endpoint + MQTT query](https://github.com/phyunsj/mqtt-endpoint-graphql) <mark>MQTT</mark> <mark>GraphQL</mark>
   
     [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine) <mark>MQTT</mark> <mark>mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
