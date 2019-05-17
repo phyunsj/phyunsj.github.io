@@ -5,13 +5,13 @@
   description: | # this will include new lines to allow paragraphs
     [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
 
-    [Design Dashboard with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
+    [Dashboard Design with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
 
     [plotly\|Dash python framework to design IoT Dashboard](https://github.com/phyunsj/iot-dashboard-design-with-dash)  <mark>plotly|Dash</mark> <mark>Node-RED</mark> 
 
     [Login, Session Management](https://github.com/phyunsj/node-red-dashboard-login) <mark>node-red-dashboard</mark> <mark>ui-control</mark> 
 
-    [Dashboard design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard</mark> <mark>Crow webserver</mark>
+    [Dashboard Design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard</mark> <mark>Crow webserver</mark>
 
     [Porting Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
 
