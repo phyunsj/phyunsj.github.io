@@ -4,6 +4,8 @@
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     
+    [OPC UA Monitor & Control](https://github.com/phyunsj/opc-ua-monitoring) <mark>OPC UA</mark> <mark>Grafana-InfluxDB</mark> <mark>Blynk</mark>
+    
     [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
 
     [Dashboard Design with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
