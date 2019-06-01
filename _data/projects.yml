@@ -6,7 +6,7 @@
     
     [OPC UA Monitor & Control](https://github.com/phyunsj/opc-ua-monitoring) <mark>OPC UA</mark> <mark>Grafana-InfluxDB</mark> <mark>Blynk</mark>
     
-    [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> 
+    [A Simple Way to Build IoT Monitor](https://github.com/phyunsj/simple-way-to-build-iot-monitor)  <mark>zapier</mark> <mark>glide</mark> <mark>google sheet</mark> <mark>google apps script</mark>
 
     [Dashboard Design with 2D game framework](https://github.com/phyunsj/iot-dashboard-design-with-love2d)  <mark>LÖVE</mark> <mark>love2d</mark> <mark>lua</mark>  <mark>freeboard</mark> <mark>iOS</mark> <mark>Fedberry</mark> <mark>RasPi</mark>
 
@@ -16,9 +16,9 @@
 
     [Freeboard Dashboard Design for the embedded system](https://github.com/phyunsj/embedded-freeboard-dashboard) <mark>Node-RED</mark> <mark>freeboard</mark> <mark>Crow webserver</mark>
 
-    [Metricio Design Porting - React Native](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
+    [Metricio Design - React Native](https://github.com/phyunsj/react-native-metricio) <mark>react-native</mark> <mark>Dashing</mark> <mark>Metricio</mark>
 
-    [Alert Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-map-page) <mark>node-red:ui-template</mark> <mark>google maps</mark>  
+    [Alert Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-map-page) <mark>node-red</mark> <mark>ui-template</mark> <mark>google maps</mark>  
 
     [System Monitoring Dashboard](https://github.com/phyunsj/node-red-custom-dashboard-system-page) <mark>node-red-contrib-os</mark> <mark>ui-template</mark> <mark>websocket</mark>
 
@@ -26,13 +26,11 @@
   
     [MQTT message routing using user-defined rules](https://github.com/phyunsj/mqtt-rule-engine) <mark>MQTT</mark> <mark>mosquitto broker</mark> <mark>lua</mark>  <mark>sqlite</mark>
     
-    [Collect Sequence of Events(SOE) and store in Google Sheets for later use](https://github.com/phyunsj/ifttt-soe-logger)  <mark>IFTTT</mark>  <mark>iot-simulator</mark> <mark>webhooks</mark>
+    [Collect Sequence of Events(SOE) and store in Google Sheets](https://github.com/phyunsj/ifttt-soe-logger)  <mark>IFTTT</mark>  <mark>iot-simulator</mark> <mark>webhooks</mark>
 
-    [Create your custom thing in flows and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>stringify</mark> <mark>iot-simulator</mark>  <mark>zeroconf-bonjour</mark>  <mark>MQTT</mark> <mark>websocket</mark> 
-
-    [A custom node to simulate user-defined IoT data + cloud MQTT](https://github.com/phyunsj/iot-device-simulator-1-mqtt) <mark>node-red-dshboard</mark> <mark>iot-simulator</mark> <mark>MQTT</mark> <mark>websocket</mark>
-
-    [Thermostat Control over IM](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
+    [Create your custom thing and send events](https://github.com/phyunsj/iot-device-simulator-2-stringify) <mark>stringify</mark> <mark>iot-simulator</mark>  <mark>zeroconf-bonjour</mark>  <mark>MQTT</mark> <mark>websocket</mark> 
+    
+    [Thermostat Control over chat](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>react-native</mark> <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
 
 - name: Angular
   github: phyunsj
@@ -53,7 +51,7 @@
     
     [Metricio Design](https://github.com/phyunsj/react-native-metricio) <mark>Dashing</mark> <mark>Metricio</mark>
 
-    [Thermostat Control over IM](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
+    [Thermostat Control over chat](https://github.com/phyunsj/node-red-contrib-ecolect-example) <mark>ecolect</mark> <mark>websocket</mark> <mark>nest thermostat</mark>
 
 
 - name: API Design + Code Generator
