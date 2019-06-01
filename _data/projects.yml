@@ -74,9 +74,9 @@
 
     [RPC Code Generation](https://github.com/phyunsj/oncrpc-api-design) <mark>pycparser</mark> <mark>AST</mark>  <mark>ONC/RPC</mark> <mark>IDL</mark>  <mark>rpcgen</mark> 
 
-    [JSON-RPC EGI handler to process RPC POST Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb 2.x webserver</mark> <mark>JSON-RPC</mark> <mark>Excel</mark> 
+    [JSON-RPC EGI handler to process RPC Data, Excel as API specification](https://github.com/phyunsj/jsonrpc-embedded-cgi-handler) <mark>appWeb2</mark> <mark>JSON-RPC</mark> <mark>Excel</mark> 
 
-    [embedded gateway interface (EGI) handler to process JSON POST Data](https://github.com/phyunsj/embedded-webapp-jsonparser) <mark>appWeb 2.x webserver</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
+    [embedded gateway interface (EGI) handler to process JSON Data](https://github.com/phyunsj/embedded-webapp-jsonparser) <mark>appWeb2</mark> <mark>JSON</mark> <mark>jsoncpp</mark> 
 
 - name: Node-RED 
   github: phyunsj
