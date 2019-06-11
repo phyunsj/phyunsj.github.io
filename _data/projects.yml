@@ -1,6 +1,6 @@
 # Project template
 
-- name: Remote Monitoring | IoT
+- name: IoT Monitor
   github: phyunsj
   description: | # this will include new lines to allow paragraphs
     
